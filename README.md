@@ -8,7 +8,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-[![Hamza-Boulila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Boulila&show_icons=true)](https://github.com/Hamza-Boulila/github-readme-stats)
+[![Hamza-Boulila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Boulila&show_icons=true&count_private=true)](https://github.com/Hamza-Boulila/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Boulila&layout=compact)](https://github.com/Hamza-Boulila/github-readme-stats)
 
