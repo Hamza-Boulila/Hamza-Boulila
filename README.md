@@ -8,7 +8,3 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Boulila&layout=compact)](https://github.com/Hamza-Boulila/github-readme-stats)
-
